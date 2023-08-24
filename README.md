@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 👩🏻‍💻 [CS50P - Ongoing](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
+| 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20
 <!--
 **abhirbhandary/abhirbhandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
