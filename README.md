@@ -1,6 +1,6 @@
 ## 😇 Introducing Myself
 
-![Simple Banner](abhirbhandary.github.io/images/Linkidin_Banner.jpg)
+![Simple Banner](https://abhirbhandary.github.io/images/Linkidin_Banner.jpg)
 
 Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
