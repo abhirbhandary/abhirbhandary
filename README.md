@@ -11,8 +11,8 @@ Hello, I'm Abhir. Aspiring Data Analyst with expertise in data analysis and repo
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my <!-- [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md). -->  
-
+Welcome to my portfolio, where I showcase my [projects](https://github.com/abhirbhandary/Portfolio-Guide).  
+<!-- -->
 ### 🛠️ Tools
 
 - Language: SQL, Python
