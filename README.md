@@ -1,6 +1,6 @@
 ## 😇 Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://abhirbhandary.github.io/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg)
+![Simple Banner](abhirbhandary.github.io/images/Linkidin_Banner.jpg)
 
 Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
